@@ -18,6 +18,18 @@ The sales forecasting will be the basis to know what will be the total revenue t
 ### Data Source:
 https://www.kaggle.com/c/rossmann-store-sales#
 
+### Action Plan:
+
+- Data Description
+- Featuring Engineering
+- Variable Filter
+- Exploratory Data Analysis
+- Data Preparation
+- Feature Selection
+- Machine Learning Models
+- Hyperparameter Fine Tuning
+- Error Interpretation and Translation
+
 
 ## Authors
 
